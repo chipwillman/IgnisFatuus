@@ -82,7 +82,7 @@ Timeline Geological Viewpoint
 						
 5.3 million years ago   Pliocene Epoch
 						
-
+3.0 million years ago   Saharra dries up - windblow sand found in core 
 
 2.58 million years ago	Quaternary Age
 						Pleistocene Epoch
@@ -96,6 +96,7 @@ Timeline Geological Viewpoint
 500 thousand years ago  Yarmouth, Holstein and Mindel-riss interglaciation (till 440 kya)
 350 thousand years ago  Illinoian, Saale, Riss glaciation
 140 thousand years ago  Sangamon, Eemian and Biss-Wurm interflaciation (till 115 kya)
+90 thousand years ago   Saharra under fresh water - Marine Shells found in layer of core 
 60 thousand years ago   Wisconsin, Weichsel, Wurm glaciation (till 13 kya)
 						
 12,800 BP				Asteroid Impact on the North American Iceshelf
@@ -103,6 +104,7 @@ Timeline Geological Viewpoint
 11.700 years ago		Holocene
 
 8000 years ago          Great Lake were individual basins
+7000 years ago          Saharra returns to desert
 
 
 References
