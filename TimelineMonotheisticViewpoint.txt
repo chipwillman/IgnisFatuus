@@ -275,7 +275,7 @@ Sept 10, 			The hijra (emigration) from Mecca to Medina.
 628					Conversion of Abu Hurairah (M - 7AH)
 628 Muharram		Marriage to Umm Habiba bint Abu Sufyan (M - Muharram 7AH)
 628					Expedition to Khaybar (M - Muharram 7AH)
-628				Poisoning of the Prophet (M - Muharram 7AH)
+628				    Poisoning of the Prophet (M - Muharram 7AH)
 628					Marriage to Safryyah bint Huyay (M - Muharram 7AH)
 628 Dhul Qadah		The Compensatory Umrah (M - Dhul Qadah 7AH)
 629 Safar			Khalid Ibn al-Walid and Amr bin al-As Accept Islam (M - Safer 8AH)
@@ -430,6 +430,7 @@ ca. 1000			Rabbi Gershon of Mainz, Germany, publishes a ban on bigamy. This mark
 1085-1145			The greatest Hebrew poet of his time, Judah Halevi.
 1090				Iban Iashufin, King of the Almoravides, captured Granada and destroyed the Jewish community, the survivors fled to Toledo.
 1095				Henry IV of Germany, who granted Jews favorable conditions whenever possible, issued a charter to the Jews and a decree against forced baptism.
+1095-1100			First Crusade 
 1096				Participants in the First Crusade massacre Jews in several Central European cities, beginning centuries of pogroms linked to the Crusades.
 1096				More than 5,000 Jews were murdered in Germany in several different attacks.
 May 3, 1096			Count Emico of Leiningen, on his way to join a Crusade, attacked the synagogue at Speyers and killed all the defenders.
@@ -447,6 +448,7 @@ May 27, 1096		1,200 Jews commit suicide in Mayence to escape Count Emico, who tr
 1139				Judah Halevi completes his influential philosophy of Judaism known as The Kuzari. He is a friend of commentator Abraham Ibn Ezra, who also left Spain for the life of a wandering Jewish scholar.
 1143				150 Jews killed in Ham, France.
 1144				Jews in Norwich, England, are accused of murdering a Christian child in what is believed to be the first ritual murder charge. The blood libel, as well as others in England that follow in the 12th century, incites anti-Jewish violence.
+1144-1150			The Second Crusade
 1160-1173			Benjamin of Toledo, The Itinerary of Benjamin of Toledo.
 1163				Benjamin of Toledo writes of 40,000 Jews living in Baghdad, complete with 28 synagogues and 10 Torah academies.
 1171				Saladin (1138-1193) overthrows Fatimid dynasty in Egypt.
@@ -454,6 +456,7 @@ May 27, 1096		1,200 Jews commit suicide in Mayence to escape Count Emico, who tr
 1181				Philip expels Jews from France.
 1187				Salah al-Din returns Jerusalem to Muslim rule.
 1187				Saladin recaptures Jerusalem from Crusaders grants Jews permission to re-enter.
+1187-1197			The Third Crusade 
 Mar 16, 1190		Jews attacked, over 150 die after a six day standoff in York, England.
 1190				Approximately 2,500 Jews live in England, enjoing more rights than Jews on the continent.
 1191				French King Phillip starts the Third Crusade, cancels debts to Jews, drives many Jews out of France, confiscates their property.
@@ -477,7 +480,7 @@ ca. 1230			Inquisition by Christians in Spain.
 1225-1274			Thomas Aquinas (Christian scholar).
 1240-1292			Spanish Kabbalist Abraham Abulafia.
 1242				Burning of the Talmud in Paris.
-1243	First accusation of desecration of the Host (the wafers used is Christian Mass) - the blood libel - in Berlitz, Germany.
+1243	            First accusation of desecration of the Host (the wafers used is Christian Mass) - the blood libel - in Berlitz, Germany.
 1244				Tartars capture Jerusalem.
 1244-1517			Rule by Tartars, Mongols, Ayybids, and Mamelukes. (till 1517)
 1247				Pope Innocent IV issued a Bull refuting blood libels and sent it throughout Germany and France.
@@ -490,7 +493,7 @@ ca. 1230			Inquisition by Christians in Spain.
 1260				Mongols led by Hulagu Khan overrun Gaza, they are beaten back by Egyptian Mamluk General Baibars. Gaza becomes the capital of a Mamluk Province.					
 1267				In a special session, the Vienna city council forced Jews to wear the Pileum cornutum, a cone-shaped headress prevelent in many medieval woodcuts illustrating Jews. This form of distinctive dress was an additon to badge Jews were forced to wear.
 1267				Ramban (Nachmanides) arrives in Israel.
-1275				King Edward of England banned usury and unsuccessfully encouraged Jews in agriculture, crafts and local trades. He also forced Jews over the age of seven to wear an indentifying badge.
+1275				King Edward of England banned usury and unsuccessfully encouraged Jews in agriculture, crafts and local trades. He also forced Jews over the age of seven to wear an identifying badge.
 1278				The Edict of Pope Nicholas III requires compulsory attendance of Jews at conversion sermons.
 1282				The Archbishop of Canterbury, John Pectin, ordered all London synagogues to closed and prohibited Jewish physicians from practicing on Christians.
 1285				Blood libel in Munich, Germany results in the death of 68 Jews. An additional 180 Jews are burned alive at the synagogue.
@@ -697,7 +700,7 @@ November 30, 1830	Greece grants citizenship to Jews.
 1831				Louis Philippe of France grants state support to synagogues.
 1831				Belgium grants citizenship to Jews.
 1831				Although Jews had been living in Jamaica since 1655, they are finally given the right to vote.
-1831-1896			Banker and philanthropist, who donated millions of dollars to Jewish organizations and attempted to resettle Eastern European and Russian Jews by estabishing the Jewish Colonial Association (JCA), Baron De Hirsch.
+1831-1896			Banker and philanthropist, who donated millions of dollars to Jewish organizations and attempted to resettle Eastern European and Russian Jews by establishing the Jewish Colonial Association (JCA), Baron De Hirsch.
 1832				Canada grants Jews political rights.
 1833				The first book by an American Jewish woman, Penina Moise's Fancy's Sketch Book, published in South Carolina.
 1837				An earthquake in Tzfat and Tiberias kills four thousand people and damages monuments and archeological sites.

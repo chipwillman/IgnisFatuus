@@ -11,7 +11,7 @@ Timeline Geological Viewpoint
 3.6 billion years ago   Paleoarchean Age
 3.5 billion years ago   Barberton Complex in South Aftrica - likely a slice of oceanic crust
 3.2 billion years ago   Mesoarchean Age
-2.9 billion years ago   Huge pulse in the formation of island arcs and oceanic plateaus (to 2.7 billion years ago)
+2.9 billion years ago   Huge pulse in the formati on of island arcs and oceanic plateaus (to 2.7 billion years ago)
 2.7 billion years ago   Neoarchean Age						
 2.5 billion years ago   Proterozoic Eon
 						Paleoproterozoic Age
@@ -37,17 +37,20 @@ Timeline Geological Viewpoint
 						Life: Trilobites
 520 million years ago	Life: Land Plants
 483 million years ago   Ordovician Age
-						During this period, the area north of the tropics was almost entirely ocean, and most of the world's land was collected into the southern supercontinent Gondwana. Throughout the Ordovician, Gondwana shifted towards the South Pole and much of it was submerged underwater.
+						During this period, the area north of the tropics was almost entirely ocean, and most of the world's land was collected into the southern super-continent Gondwana. Throughout the Ordovician, Gondwana shifted towards the South Pole and much of it was submerged underwater.
 442 million years ago   Silurian Age
 						During this time, continental landmasses were low and sea levels were rising. This meant rich shallow sea ecosystems with new ecological niches. Silurian fossils show evidence of extensive reef building and the first signs that life beginning to colonize the new estuary, fresh water and terrestrial ecosystems.
 						The supercontinent Gondwana had drifted southward and covered most of the southern latitudes. Much of the northern half of the planet was ocean with two smaller continents, Laurentia and Baltica, near the equator. Another micro-continent, Avalonia, rifted from the northern edge of Gondwana and drifted northward. Beginning in the late Ordovician and continuing throughout the Silurian and into the Devonian, the three northern continents collided, forming the new supercontinent, Euramerica. This collision resulted in a major mountain building event known as the Caledonian Orogeny. The hills and mountains of Scotland, Ireland, Wales and the northern Appalachians are remnants of this event, as are the mountains of Sweden and Norway.
 414 million years ago   Devonian Age
 						The supercontinent Gondwana occupied most of the Southern Hemisphere, although it began significant northerly drift during the Devonian Period.
+360 million years ago   Fresh water fishes and lung fish fossils found in queensland from a dried out waterhole						
 356 million years ago   Carboniferous Mississippian Age
 						The term "Carboniferous" comes from England, in reference to the rich deposits of coal that occur there.
 313 million years ago   Carboniferous Pennsylvanian Age
 						Used to distinguish between the 356 mya layer and the newer 313 mya layer in America
 300 million years ago   Permian Age
+						Australia connected in the south to antartica 
+280-160 mya				South Australia covered in Ice, North Seasonal
 252 million years ago   Mesozoic Era - Permian extinction event (Permian-Triassic)
 252 million years ago	Triassic Age
 						Continent - Pangaea
@@ -55,10 +58,13 @@ Timeline Geological Viewpoint
 230 million years ago	Life: Dinosaurs
 						Life: Mammals 
 200 million years ago	Jurassic Age
+						Dinosaurs fossils found in Australia Mount Morgan Queensland
 						Continents of Laurasia and Gondwanaland start drifing apart from Pangaea
-
 145 million years ago   Cretaceous Age
+						Gosses Bludd Asteroid/Comet impact in Australia
 						the continents were in very different positions than they are today. Sections of the supercontinent Pangaea were drifting apart. The Tethys Ocean still separated the northern Laurasia continent from southern Gondwana. The North and South Atlantic were still closed, although the Central Atlantic had begun to open up in the late Jurassic Period. By the middle of the period, ocean levels were much higher; most of the landmass we are familiar with was underwater. By the end of the period, the continents were much closer to modern configuration.
+95 million years ago    Witton Queenland - Dinosaur Stampede						
+70 million years ago    Colorado Rocky Mountains were under water determined from fossils of Ammonites
 66 million years ago    Cenozoic Era
 65.5 million years ago  KT - Boundary
 						Tertiary Paleogene Age
@@ -66,9 +72,12 @@ Timeline Geological Viewpoint
 						Cenozoic rocks are extensively developed on all the continents, particularly on lowland plains, as, for example, the Gulf and Atlantic coastal plains of North America. They are generally less consolidated than older rocks, although some are indurated (cemented) as a result of high pressure due to deep burial, chemical diagenesis, or high temperature—namely, metamorphism. Sedimentary rocks predominate during the Cenozoic, and more than half the world’s petroleum occurs in such rocks of this age. Igneous rocks are represented by extensive early Cenozoic flood basalts (those of East Greenland and the Deccan trap of India) and the late Cenozoic flood basalts of the Columbia River in Washington, as well as by numerous volcanoes in the circum-Pacific System (the “Ring of Fire”) and ocean island chains such as Hawaii.
 						Several of the world’s great mountain ranges were built during the Cenozoic. The main Alpine orogeny, which produced the Alps and Carpathians in southern Europe and the Atlas Mountains in northwestern Africa, began roughly between 37 million and 24 million years ago. The Himalayas were formed some time after the Indian Plate collided with the Eurasian Plate. These lofty mountains marked the culmination of the great uplift that occurred during the late Cenozoic when the Indian Plate drove many hundreds of kilometres into the underbelly of Asia. They are the product of the low-angle underthrusting of the northern edge of the Indian Plate under the southern edge of the Eurasian Plate.
 						From about five million years ago, the Rocky Mountains and adjoining areas were elevated by rapid uplift of the entire region without faulting. This upwarping sharply steepened stream gradients, enabling rivers to achieve greater erosional power. As a result, deep river valleys and canyons, such as the Grand Canyon of the Colorado River in northern Arizona, were cut into broad upwarps of sedimentary rock during late Cenozoic time.
+						No evidence of impact found in Australia.  Evidence found in New Zealand
 
+60 million years ago    Colorado Rocky mountains were twice as high with fossil leaves that grew in 58 degree temperature with denver being 78 degrees.  Delta in temperature vs elevation is > 5000 feet
+ 						
 55.8 million years ago  Eocene Epoch	
-						Greenland and Scandinavia separated from supercontinent of Laurasia
+						Greenland and Scandinavia separated from super-continent of Laurasia
 37 million years ago	Saharra Under water with whale fossils found/shells found						
 33.9 million years ago  Oligocene Epoch
 23 million years ago    Tertiary Neogene Age
@@ -82,11 +91,11 @@ Timeline Geological Viewpoint
 						
 5.3 million years ago   Pliocene Epoch
 						
-3.0 million years ago   Saharra dries up - windblow sand found in core 
+3.0 million years ago   Saharra dries up - windblown sand found in core 
 
 2.58 million years ago	Quaternary Age
 						Pleistocene Epoch
-						Life: First Hominins
+						Life: First Hominids
 
 1.5 million years ago   Eburon & Donau Glaciation
 1.3 million years ago   Waal and Donau-Gunz interflaciation
@@ -98,14 +107,16 @@ Timeline Geological Viewpoint
 140 thousand years ago  Sangamon, Eemian and Biss-Wurm interflaciation (till 115 kya)
 90 thousand years ago   Saharra under fresh water - Marine Shells found in layer of core 
 60 thousand years ago   Wisconsin, Weichsel, Wurm glaciation (till 13 kya)
-						
+
 12,800 BP				Asteroid Impact on the North American Iceshelf
 						Younger Dryas
 11.700 years ago		Holocene
+10000 years ago			Glaciers retreat leaving large boulders in the Colorado Rockies
 
 8000 years ago          Great Lake were individual basins
 7000 years ago          Saharra returns to desert
 
+now						A rift is forming in the Rio Grande Valley in New Mexico along the Rockies.   The mountains are crumbling into the rift.  The rift has just reach the Colorado Rockies.  Helium boils up from the rift.
 
 References
 http://geology.com/time/geologic-time-scale.pdf
